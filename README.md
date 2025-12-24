@@ -55,3 +55,6 @@ Run inside Postgres (docker exec -it activity-feed-db-1 psql -U app -d feed):
     ('member_101', 'APPROVED', 'Claim approved – coverage applied'),
     ('member_101', 'PAID', 'Payment of $96 issued to member');
 
+5. To test
+        curl http://localhost:4000/health
+
