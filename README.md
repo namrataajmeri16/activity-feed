@@ -7,17 +7,17 @@ Note : Run in bash terminal
 
 <img width="1773" height="955" alt="Screenshot 2025-12-24 155704" src="https://github.com/user-attachments/assets/fccff28d-96f6-445a-ab22-567d6a4b232b" />
 
-1. Run server 
+1. Run server :
 
     cd server
     
     npm run dev
 
-2. Run worker in another terminal. Inside server folder itself
+2. Run worker in another terminal. Inside server folder itself :
 
     npx ts-node-dev --respawn --transpile-only src/worker.ts
 
-3. Run client 
+3. Run client :
 
     cd client 
 
