@@ -26,6 +26,7 @@ Note : Run in bash terminal
 4. In new terminal. Root folder only
 
     a. Seed value by -> npx ts-node scripts/seedClaims.ts
+        
         Expected output : 
             🌱 Seeding health & dental claim events...
             ✅ Inserted 6 claim events
