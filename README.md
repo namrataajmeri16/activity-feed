@@ -9,19 +9,19 @@ Note : Run in bash terminal
 
 1. Run server :
 
-    cd server
+        cd server
     
-    npm run dev
+         npm run dev
 
 2. Run worker in another terminal. Inside server folder itself :
 
-    npx ts-node-dev --respawn --transpile-only src/worker.ts
+        npx ts-node-dev --respawn --transpile-only src/worker.ts
 
 3. Run client :
 
-    cd client 
+        cd client 
 
-    npm run dev
+        npm run dev
 
 4. In new terminal. Root folder only
 
