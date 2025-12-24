@@ -3,6 +3,8 @@ The system is designed for real claim events.
 
 Note : Run in bash terminal
 
+<img width="1773" height="955" alt="Screenshot 2025-12-24 155704" src="https://github.com/user-attachments/assets/fccff28d-96f6-445a-ab22-567d6a4b232b" />
+
 1. Run server 
 cd server
 npm run dev
